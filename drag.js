@@ -17,7 +17,7 @@ window.onload = function(){
 			};
 			
 			document.onmouseup= function(){
-				document.onmouseup = document.onmousemove = null
+				document.onmouseup = document.onmousemove = null;
 			};
 			return false;
 		};
