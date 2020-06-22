@@ -4,7 +4,7 @@
   "description": "拖拽的项目",
   "main": "drag.js",
   "scripts": {
-    "git": "git config commit.template .git_template & git config --global core.editor vim"
+    "git": "commitizen init cz-conventional-changelog --force --save --save-exact"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/yangxinquan0902/drag/issues"
   },
-  "homepage": "https://github.com/yangxinquan0902/drag#readme"
+  "homepage": "https://github.com/yangxinquan0902/drag#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.2.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog-lint"
+    }
+  }
 }
