@@ -1,0 +1,21 @@
+{
+  "name": "drag",
+  "version": "1.0.0",
+  "description": "拖拽的项目",
+  "main": "drag.js",
+  "scripts": {
+    "git": "git config commit.template .git_template "
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangxinquan0902/drag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangxinquan0902/drag/issues"
+  },
+  "homepage": "https://github.com/yangxinquan0902/drag#readme"
+}
