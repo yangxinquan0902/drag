@@ -4,8 +4,7 @@
   "description": "拖拽的项目",
   "main": "drag.js",
   "scripts": {
-    "git": "git config commit.template .git_template "
-
+    "git": "git config commit.template .git_template"
   },
   "repository": {
     "type": "git",
