@@ -3,7 +3,7 @@
 // commit3
 // commit4
 // commit5
-// commit7
+// commit6
 window.onload = function(){
 	
 	var oApp = document.querySelector('.app');
