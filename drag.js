@@ -1,4 +1,4 @@
-// commit999
+// 测试使用
 window.onload = function(){
 	
 	var oApp = document.querySelector('.app');

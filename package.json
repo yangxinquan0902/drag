@@ -4,7 +4,7 @@
   "description": "拖拽的项目",
   "main": "drag.js",
   "scripts": {
-    "git": "commitizen init cz-conventional-changelog --force --save --save-exact"
+    "commit": "git-cz"
   },
   "repository": {
     "type": "git",
