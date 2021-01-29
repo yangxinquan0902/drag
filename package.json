@@ -4,7 +4,6 @@
   "description": "拖拽的项目",
   "main": "drag.js",
   "scripts": {
-    "commit": "git-cz"
   },
   "repository": {
     "type": "git",
@@ -18,12 +17,5 @@
   },
   "homepage": "https://github.com/yangxinquan0902/drag#readme",
   "devDependencies": {
-    "commitizen":"^4.1.2",
-    "cz-conventional-changelog": "^3.2.0"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
   }
 }
