@@ -1,4 +1,3 @@
-// commit66
 window.onload = function(){
 	
 	var oApp = document.querySelector('.app');
